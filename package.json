@@ -1,5 +1,7 @@
 {
-  "name": "maps",
+  "name": "ham2k-maps",
+  "author": "Sebastián Delmont <sd@notso.net>",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
